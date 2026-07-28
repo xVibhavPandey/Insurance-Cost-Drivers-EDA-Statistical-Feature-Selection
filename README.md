@@ -1,4 +1,4 @@
-# Medical Insurance Cost Analysis
+# Insurance-Cost-Drivers-EDA-Statistical-Feature-Selection
 
 Exploratory data analysis, cleaning, and feature engineering pipeline on the Kaggle Medical Cost Personal Dataset, with statistical feature selection using Pearson correlation and Chi-Square tests to identify the strongest predictors of insurance charges.
 
