@@ -9,7 +9,7 @@ st.set_page_config(page_title="Insurance Predictor", page_icon="🏥", layout="c
 # Load trained linear regression model
 @st.cache_resource
 def load_model():
-    return joblib.load('Insurance_model.pkl')
+    return joblib.load('Insurance_model_ensemble_rf.pkl')
 
 model = load_model()
 
